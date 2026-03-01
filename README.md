@@ -52,7 +52,3 @@
 </picture>
 
 ###
-
-<img src="https://raw.githubusercontent.com/Park-junSungT/Park-junSungT/output/snake.svg" alt="Snake animation" />
-
-###

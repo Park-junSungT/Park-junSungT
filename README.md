@@ -1,6 +1,4 @@
-<h1 align="center">👋 Hi there!</h1>
-
-<h3 align="center">Backend Developer</h3>
+<h1 align="center">👋 Hi!</h1>
 
 <br>
 
